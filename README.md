@@ -46,22 +46,23 @@ The system uses a config file that contains task and agent configurations (e.g.,
 
 - No need to manually modify the CSVs; the tool handles the changes based on your preferences.
 
-**Requirements**
+### Requirements
 To run this project, you need the following:
 
-*Python* 3.11
+**Python** 3.11
 
-*CrewAI*: For task and team management
+**CrewAI**: For task and team management
 
-*Groq*: For optimized and high-performance task execution
+**Groq**: For optimized and high-performance task execution
 Groq Website
 
 ## How to Use 
-Install Dependencies: First, install the necessary Python package:
+**Install Dependencies**: 
+First, install the necessary Python package:
 
-crewai 
+`crewai` 
 
-Provide Project Description: Enter the required project details:
+**Provide Project Description**: Enter the required project details:
 ```
 Project Type
 
@@ -72,24 +73,27 @@ Team Members
 Requirements
 ```
 
-**Generate Plan**: Once the project description is provided, the tool will generate:
 
+
+**Generate Plan**: Once the project description is provided, the tool will generate:
+```
 Tasks in tasks.csv
 
 Milestones in milestones.csv
+```
 
-Personalize:
+
+**Personalize**:
 
 Use the Pydantic configuration to customize task details and adjust team member assignments.
 
 Any modifications in the config will automatically reflect in the output CSV files.
 
 Technology Stack
-Python 3.11
+**Python 3.11**
+**crewai**
 
-CrewAI for task and team management
 
-Groq for high-performance execution (Groq Website)
 
 License
 This project is licensed under the MIT License – see the LICENSE file for details.
