@@ -1,0 +1,16 @@
+task_name,estimated_time_hours,required_resources
+Requirements Gathering & Analysis,8.0,['John Doe']
+Sitemap Creation,16.0,['John Doe']
+Wireframing & Prototyping,24.0,['Bob Smith']
+User Flow & Navigation Design,16.0,['Bob Smith']
+Design Mockups,32.0,['Bob Smith']
+Front-End Development,80.0,['Jane Doe']
+Back-End Development,80.0,['Jane Doe']
+Content Integration,40.0,"['John Doe', 'Bob Smith']"
+Unit Testing,16.0,"['Jane Doe', 'Alice Johnson']"
+Integration Testing,16.0,"['Alice Johnson', 'Tom Brown']"
+User Acceptance Testing,16.0,"['John Doe', 'Bob Smith']"
+Bug Fixing & Issue Resolution,16.0,"['Jane Doe', 'Bob Smith']"
+Website Deployment,16.0,['Jane Doe']
+Launch Readiness Check,16.0,"['John Doe', 'Jane Doe', 'Bob Smith', 'Alice Johnson', 'Tom Brown']"
+Website Go-Live,16.0,['John Doe']
