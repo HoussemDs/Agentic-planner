@@ -24,7 +24,7 @@ From this, the project will generate:
 
 - *Milestones*: Key events or goals to track project progress.
 
-**Generated Output**
+#### Generated Output
 After you provide the project description, the tool creates two CSV files:
 
 `tasks.csv`
@@ -56,7 +56,7 @@ To run this project, you need the following:
 **Groq**: For optimized and high-performance task execution
 Groq Website
 
-## How to Use 
+### How to Use 
 **Install Dependencies**: 
 First, install the necessary Python package:
 
@@ -89,12 +89,13 @@ Use the Pydantic configuration to customize task details and adjust team member 
 
 Any modifications in the config will automatically reflect in the output CSV files.
 
-Technology Stack
+### Technology Stack
 **Python 3.11**
 **crewai**
 
 
 
-License
+**License**
+
 This project is licensed under the MIT License – see the LICENSE file for details.
 
